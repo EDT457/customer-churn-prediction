@@ -83,16 +83,6 @@ Building this project helped me understand:
 - Create an interactive prediction interface
 - Deploy model as a web application
 
-## Project Structure
-
-```
-├── churn_predictor.py
-├── requirements.txt
-├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-└── visualizations/
-    └── (generated plots and charts)
-```
 
 ## Author
 
